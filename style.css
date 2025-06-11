@@ -319,7 +319,7 @@ body::before {
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #900eb8 0%, #ac0fb8 100%);
+    background: linear-gradient(135deg, #667eea 0%, #667eea 100%);
     color: white;
     border: none;
     font-size: 24px;

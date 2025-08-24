@@ -18,6 +18,7 @@ A modern, responsive user directory application for managing team members and or
 ## Screenshots
 
 ![ProfileFolio Interface](https://github.com/PavithraaDeenadayalan/ProfileFolio/blob/main/ProfileFolio.png)
+![ProfileFolio Interface](https://github.com/PavithraaDeenadayalan/ProfileFolio/blob/main/ProfileFolio2.png)
 
 ## Technologies Used
 
